@@ -1,0 +1,65 @@
+{
+  "name": "termux-wabot",
+  "version": "2.0.0",
+  "description": "No comment",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "BrizasBot",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "@kagchi/kag-api": "^1.5.5",
+    "async": "^2.4.1",
+    "axios": "^0.21.0",
+    "cfonts": "^2.9.0",
+    "cpf": "^2.0.1",
+    "escape-string-regexp": "^1.0.5",
+    "fake-useragent": "^1.0.1",
+    "fast-speedtest-api": "^0.3.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "g-i-s": "^2.1.6",
+    "geoip-lite": "^1.4.2",
+    "gm": "^1.23.1",
+    "imagemagick": "^0.1.3",
+    "imgbb-uploader": "^1.1.0",
+    "jimp": "^0.16.1",
+    "js-brasil": "^2.4.1",
+    "moment-timezone": "^0.5.32",
+    "morsify": "^2.4.0",
+    "multistream": "^2.1.0",
+    "node-fetch": "^2.6.1",
+    "node-open-geocoder": "^4.0.1",
+    "nodejs-currency-converter": "^1.0.2",
+    "nodemailer": "^6.4.18",
+    "performance-now": "^2.1.0",
+    "qrcode": "^1.4.4",
+    "remove.bg": "^1.3.0",
+    "request": "^2.81.0",
+    "spinnies": "^0.5.1",
+    "tiktok-scraper": "^1.4.7",
+    "translatte": "^2.5.8",
+    "youtube-mp3-downloader": "^0.7.6",
+    "youtube-sr": "^4.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmsfvenom/Brizas-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
+  },
+  "homepage": "https://github.com/ianmsfvenom/Brizas-bot#readme"
+}
