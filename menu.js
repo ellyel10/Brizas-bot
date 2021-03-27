@@ -249,9 +249,10 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}offmodgrupo*
 ❁❧ *${p}autoreply* ❮1 or 0❯
 ❁❧ *${p}antilinkhard* ❮1 or 0❯
-❁❧ *${p}tagall* ❮num❯
-❁❧ *${p}tagall2* ❮num❯
-❁❧ *${p}tagall3* ❮num❯
+❁❧ *${p}marcar*
+❁❧ *${p}marcar2*
+❁❧ *${p}marcar3*
+❁❧ *${p}hidemarcar* ❮txt❯
 
 
 ┈━═☆ ༻🕵️ 𝚂𝚝𝚊𝚕𝚔𝚎𝚛 🕵️༺ ☆═━┈
